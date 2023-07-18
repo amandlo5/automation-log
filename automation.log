@@ -1,4 +1,4 @@
-07/15/2023 09:06:42-DEBUG-Applicable driver not found; attempting to install with Selenium Manager (Beta)
+07/15/2023 09:06:42-DEBUG-Applicable driver not famolound; attempting to install with Selenium Manager (Beta)
 07/15/2023 09:06:42-DEBUG-Executing process: C:\Users\DELL\venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json --debug
 07/15/2023 09:06:42-DEBUG-Using shell command to find out chrome version
 07/15/2023 09:06:42-DEBUG-Running command: "set PFILES=%PROGRAMFILES: (x86)=%&& wmic datafile where name='!PFILES:\\=\\\\!\\\\Google\\\\Chrome\\\\Application\\\\chrome.exe' get Version /value"
